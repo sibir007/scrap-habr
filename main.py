@@ -36,9 +36,9 @@ domen = 'https://habr.com'
 #     resp = rq.get(url=init_linc.format(user=user, page=page), proxies=VZLJOT_PROXY)
 #     root = etree.HTML(resp.text, parser=parser).getroot()
 #     root.find('//')
-with open('article.csv', 'wt', encoding='utf-8', newline='') as f:
+with open('article.csv', 'wt', newline='') as f:
     writer = csv.writer(f)
-    for page in range(init_page, 1, -1):
+    for page in range(1, init_page):
         resp = rq.get(url=init_linc.format(user=user, page=page), proxies=VZLJOT_PROXY)
         root = etree.HTML(resp.text, parser=parser)
             

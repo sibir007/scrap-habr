@@ -1,41 +1,60 @@
-"2024-06-06, 13:15",РљР°Рє РїСЂРѕСЃС‚Рѕ СЃРѕР·РґР°С‚СЊ aiogram 3.x Р±РѕС‚Р° РЅР° РІРµР±С…СѓРєР°С… (webhook)?,https://habr.com/en/articles/819955/
-"2024-06-23, 07:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: Р”РµРїР»РѕР№ Р±РѕС‚Р° С‡РµСЂРµР· Docker,https://habr.com/en/articles/823714/
-"2024-06-22, 06:00","РЁРїР°СЂРіР°Р»РєР° СЃ РєРѕРјР°РЅРґР°РјРё РґР»СЏ Windows, Linux Рё macOS (РўРµСЂРјРёРЅР°Р», VirtualEnv Рё Git)",https://habr.com/en/articles/823570/
-"2024-06-21, 06:00",Asynpg-lite: Р»С‘РіРєРѕСЃС‚СЊ Р°СЃРёРЅС…СЂРѕРЅРЅС‹С… РѕРїРµСЂР°С†РёР№ РЅР° PostgreSQL СЃ SQLAlchemy,https://habr.com/en/articles/823400/
-"2024-06-20, 06:00","Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: РџСЂРѕС„РёР»СЊ, Р°РґРјРёРЅ-РїР°РЅРµР»СЊ Рё СЂРµС„РµСЂР°Р»СЊРЅР°СЏ СЃРёСЃС‚РµРјР°",https://habr.com/en/articles/822809/
-"2024-06-19, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x:В  РРЅС‚РµРіСЂР°С†РёСЏ СЃ PostgreSQL РІ РїР°СЂСѓ СЃС‚СЂРѕРє РєРѕРґР°,https://habr.com/en/articles/822083/
-"2024-06-18, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: Р’СЃРµ РїСЂРѕ FSM РїСЂРѕСЃС‚С‹РјРё СЃР»РѕРІР°РјРё,https://habr.com/en/articles/822061/
-"2024-06-17, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: РћС‚РїСЂР°РІРєР° Рё РѕР±СЂР°Р±РѕС‚РєР° РјРµРґРёР° СЃРѕРѕР±С‰РµРЅРёР№,https://habr.com/en/articles/821961/
-"2024-06-16, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: Message handler Рё С‚СЂСЋРєРё СЃ С‚РµРєСЃС‚РѕРј,https://habr.com/en/articles/821661/
-"2024-06-15, 09:00",РџРѕРґРЅСЏС‚РёРµ Redis СЃРµСЂРІРµСЂР°: РџРѕР»РЅРѕРµ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ,https://habr.com/en/articles/821363/
-"2024-06-14, 06:00",asynpg-lite: РџСЂРѕСЃС‚РѕР№ Р°СЃРёРЅС…СЂРѕРЅРЅС‹Р№ РјРµРЅРµРґР¶РµСЂ РґР»СЏ PostgreSQL РЅР° Python,https://habr.com/en/articles/821323/
-"2024-06-13, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: РњР°РіРёСЏ С„РёР»СЊС‚СЂРѕРІ,https://habr.com/en/articles/821085/
-"2024-06-12, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: РРЅР»Р°Р№РЅ РєРЅРѕРїРєРё Рё CallBack Р”Р°С‚Р°,https://habr.com/en/articles/820877/
-"2024-06-11, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: РўРµРєСЃС‚РѕРІР°СЏ РєР»Р°РІРёР°С‚СѓСЂР° Рё РљРѕРјР°РЅРґРЅРѕРµ РјРµРЅСЋ,https://habr.com/en/articles/820733/
-"2024-06-10, 06:00",Telegram Р‘РѕС‚С‹ РЅР° Aiogram 3.x: РџРµСЂРІС‹Рµ РЁР°РіРё,https://habr.com/en/companies/amvera/articles/820527/
-"2024-06-09, 09:00",Р Р°Р±РѕС‚Р° СЃ Outline С‡РµСЂРµР· Python,https://habr.com/en/articles/820437/
-"2024-06-08, 14:06",РЎРІРѕР№ VPN Р·Р° 5 РјРёРЅСѓС‚ (Outline),https://habr.com/en/articles/820403/
-"2024-06-07, 12:00","РќРѕРІС‹Р№ Selenium Python: СЃС‚РµР»СЃ-СЂРµР¶РёРј, РїСЂРѕС„РёР»СЊ, СЃРєСЂС‹С‚Р°СЏ Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ",https://habr.com/en/articles/820213/
-"2024-06-07, 08:22",Р Р°Р·РІРѕСЂР°С‡РёРІР°РµРј PostgreSQL РЅР° VPS СЃРµСЂРІРµСЂРµ Р·Р° 5 РјРёРЅСѓС‚,https://habr.com/en/articles/820129/
-"2024-06-06, 21:56","РџСЂРѕСЃС‚Р°СЏ РЅР°СЃС‚СЂРѕР№РєР° VPS, NGINX Рё FastAPI: РџРѕС€Р°РіРѕРІРѕРµ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ. Р§Р°СЃС‚СЊ 2",https://habr.com/en/articles/820093/
-"2024-06-06, 13:26","РџСЂРѕСЃС‚Р°СЏ РЅР°СЃС‚СЂРѕР№РєР° VPS, NGINX Рё FastAPI: РџРѕС€Р°РіРѕРІРѕРµ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ. Р§Р°СЃС‚СЊ 1",https://habr.com/en/articles/819957/
-"2024-08-11, 18:45","Playwright: РџРѕРёСЃРє, С„РёР»СЊС‚СЂР°С†РёСЏ Рё РѕР¶РёРґР°РЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ РЅР° СЃС‚СЂР°РЅРёС†Рµ",https://habr.com/en/companies/amvera/articles/835304/
-"2024-08-09, 08:00",Playwright: Р›СѓС‡С€Р°СЏ Р°Р»СЊС‚РµСЂРЅР°С‚РёРІР° Selenium. РџРµСЂРІРѕРµ Р·РЅР°РєРѕРјСЃС‚РІРѕ,https://habr.com/en/companies/amvera/articles/834846/
-"2024-08-04, 10:00",РЎРѕР·РґР°РЅРёРµ РїРѕР»РЅРѕРіРѕ Fast-API СЃРµСЂРІРёСЃР° СЃ С„СЂРѕРЅС‚РµРЅРґРѕРј Рё РґРµРїР»РѕРµРј Р·Р° РїРѕР»С‡Р°СЃР°,https://habr.com/en/companies/amvera/articles/833588/
-"2024-08-02, 07:00",Р­С„С„РµРєС‚РёРІРЅС‹Рµ Р·Р°РїСЂРѕСЃС‹ Рє ChatGPT Рё РїРѕРґРѕР±РЅС‹Рј РјРѕРґРµР»СЏРј: РџРѕР»РЅРѕРµ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ РїРѕ РёРґРµР°Р»СЊРЅРѕР№ С„РѕСЂРјСѓР»Рµ,https://habr.com/en/articles/833234/
-"2024-07-30, 20:20",CurlFetch2Py вЂ“ Р­С„С„РµРєС‚РёРІРЅРѕРµ РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ CURL Рё FETCH РєРѕРјР°РЅРґ РІ СЃС‚СЂСѓРєС‚СѓСЂРёСЂРѕРІР°РЅРЅС‹Рµ Python РѕР±СЉРµРєС‚С‹,https://habr.com/en/articles/832566/
-"2024-07-28, 16:22",WebSim AI: Р‘РµСЃРїР»Р°С‚РЅС‹Р№ РР-РїРѕРјРѕС‰РЅРёРє РґР»СЏ Р±С‹СЃС‚СЂРѕР№ РІРµР±-СЂР°Р·СЂР°Р±РѕС‚РєРё вЂ“ РІСЂРµРјСЏ С„СЂРѕРЅС‚РµРЅРґРµСЂР°Рј РЅР°РїСЂСЏС‡СЊСЃСЏ,https://habr.com/en/companies/amvera/articles/832046/
-"2024-07-26, 16:45",РђСЃРёРЅС…СЂРѕРЅРЅС‹Рµ СѓРІeРґРѕРјР»РµРЅРёСЏ РІ Telegram: РїСЂРѕСЃС‚РѕРµ СЂРµС€РµРЅРёРµ СЃ РЅРѕРІРѕР№ Р±РёР±Р»РёРѕС‚РµРєРѕР№,https://habr.com/en/articles/831768/
-"2024-07-25, 13:15",РЎРѕР·РґР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ API РЅР° Python (FastAPI): РџРѕРґРєР»СЋС‡Р°РµРј С„СЂРѕРЅС‚РµРЅРґ Рё СЃС‚Р°С‚РёС‡РµСЃРєРёРµ С„Р°Р№Р»С‹,https://habr.com/en/articles/831386/
-"2024-07-20, 12:04",Hamster Kombat: Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ С„Р°СЂРјР° Рё С‚Р°РїР°РЅСЊСЏ С…РѕРјСЏРєР° С‡РµСЂРµР· Python СЃ РґРµРїР»РѕРµРј,https://habr.com/en/companies/amvera/articles/830162/
-"2024-07-18, 14:00","РЎРѕР·РґР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ API РЅР° Python (FastAPI): РђРІС‚РѕСЂРёР·Р°С†РёСЏ, РђСѓС‚РµРЅС‚РёС„РёРєР°С†РёСЏ Рё СЂРѕР»Рё РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№",https://habr.com/en/articles/829742/
-"2024-07-12, 13:00",РЎРѕР·РґР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ API РЅР° Python (FastAPI): Router Рё Р°СЃРёРЅС…СЂРѕРЅРЅС‹Рµ Р·Р°РїСЂРѕСЃС‹ РІ PostgreSQL (SQLAlchemy),https://habr.com/en/articles/828328/
-"2024-07-09, 07:00","РЎРѕР·РґР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ API РЅР° Python (FastAPI): СЃС‚СЂСѓРєС‚СѓСЂР° РїСЂРѕРµРєС‚Р°, SQLAlchemy PostgreSQL, РјРёРіСЂР°С†РёРё Рё РїРµСЂРІС‹Рµ РјРѕРґРµР»Рё С‚Р°Р±Р»РёС†",https://habr.com/en/articles/827222/
-"2024-07-07, 10:00","РЎРѕР·РґР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ API РЅР° Python (FastAPI): Р“Р°Р№Рґ РїРѕ POST, PUT, DELETE Р·Р°РїСЂРѕСЃР°Рј Рё РјРѕРґРµР»СЏРј Pydantic",https://habr.com/en/articles/827134/
-"2024-07-03, 14:27",РќРѕРІР°СЏ Р±РёР±Р»РёРѕС‚РµРєР° РґР»СЏ СЂР°Р±РѕС‚С‹ СЃ JSON: json_db_lite,https://habr.com/en/articles/826434/
-"2024-07-02, 15:01",РЎРѕР·РґР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ API РЅР° Python (FastAPI): Р—РЅР°РєРѕРјСЃС‚РІРѕ Рё РїРµСЂРІС‹Рµ С„СѓРЅРєС†РёРё,https://habr.com/en/companies/amvera/articles/826196/
-"2024-06-30, 21:14","РР LLama3 Р±РµР· РѕРіСЂР°РЅРёС‡РµРЅРёР№: Р»РѕРєР°Р»СЊРЅС‹Р№ Р·Р°РїСѓСЃРє, GROQ Рё РёРЅС‚РµРіСЂР°С†РёСЏ РІ РўРµР»РµРіСЂР°Рј Р±РѕС‚Р° СЃ РїРѕРјРѕС‰СЊСЋ Python",https://habr.com/en/articles/825678/
-"2024-06-28, 15:56",РџСЂРѕСЃС‚РѕР№ СЃРїРѕСЃРѕР± РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ СЃ Google РўР°Р±Р»РёС†Р°РјРё С‡РµСЂРµР· Python (Gspread),https://habr.com/en/articles/825404/
-"2024-06-26, 06:24",РЎРѕР·РґР°РЅРёРµ Рё РѕР±СЂР°Р±РѕС‚РєР° Excel С„Р°Р№Р»РѕРІ СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј Python,https://habr.com/en/articles/824050/
-"2024-06-25, 06:09",Р‘С‹СЃС‚СЂС‹Р№ Р·Р°РїСѓСЃРє Redis С‡РµСЂРµР· Docker Compose,https://habr.com/en/articles/823936/
-"2024-06-24, 07:00",Р‘С‹СЃС‚СЂС‹Р№ Р·Р°РїСѓСЃРє PostgreSQL С‡РµСЂРµР· Docker Compose,https://habr.com/en/articles/823816/
+"2024-12-14, 08:09",FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом,https://habr.com/en/companies/amvera/articles/866200/
+"2024-12-03, 08:12","Создание блога на FastAPI с нуля: JWT, Markdown и современный веб-дизайн",https://habr.com/en/companies/amvera/articles/863130/
+"2024-11-21, 07:55",FastAPI + APScheduler: Простой пошаговый гайд по созданию асинхронного API для мониторинга валют по расписанию на Python,https://habr.com/en/companies/amvera/articles/859990/
+"2024-11-14, 08:26",Кроссплатформенные приложения на Python с Flet и FastAPI: Полное руководство по разработке,https://habr.com/en/companies/amvera/articles/858292/
+"2024-11-03, 09:44","Асинхронный SQLAlchemy 2: улучшение кода, методы обновления и удаления данных",https://habr.com/en/companies/amvera/articles/855740/
+"2024-10-29, 08:05",Игра 2048 в вашем Telegram-боте: как создать MiniApp с помощью FastAPI и Aiogram за несколько шагов,https://habr.com/en/companies/amvera/articles/853870/
+"2024-10-23, 08:05","Создание Telegram Web App с FastAPI: Генерация, сканирование QR-кодов камерой устройства и деплой за 5 минут",https://habr.com/en/companies/amvera/articles/852490/
+"2024-10-18, 13:16",Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник,https://habr.com/en/companies/amvera/articles/851642/
+"2024-10-15, 08:08","Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic",https://habr.com/en/companies/amvera/articles/850470/
+"2024-10-12, 10:03","Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic",https://habr.com/en/companies/amvera/articles/849836/
+"2024-10-08, 08:23","Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок",https://habr.com/en/companies/amvera/articles/848644/
+"2024-10-02, 00:01",Связываем форму сайта с Telegram-ботом на чистом JavaScript за 15 минут: Полная разработка и деплой,https://habr.com/en/companies/amvera/articles/847346/
+"2024-09-30, 08:33","Простой мини-чат на FastApi: Современный интерфейс, вебсокеты и SQLAlchemy с деплоем",https://habr.com/en/companies/amvera/articles/846926/
+"2024-09-22, 10:39",Разработка Telegram-бота для управления файлами и заметками с помощью Aiogram 3 и асинхронной SQLAlchemy,https://habr.com/en/companies/amvera/articles/845104/
+"2024-09-14, 10:25","Полноценный API на Django REST Framework: легкая разработка, автодокументация и быстрый деплой",https://habr.com/en/companies/amvera/articles/843232/
+"2024-09-09, 08:00",Бесплатный домен с HTTPS для локальных приложений: универсальное руководство с примером на Flask,https://habr.com/en/companies/amvera/articles/841616/
+"2024-09-06, 08:00","Бесплатный аналог Notion на своем сервере за 10 минут. Локальный запуск, настройка и деплой Wiki.JS",https://habr.com/en/companies/amvera/articles/841152/
+"2024-09-03, 16:49",Django 5: асинхронный бекенд и эффектный фронтенд с минимальными затратами времени,https://habr.com/en/companies/amvera/articles/840612/
+"2024-08-30, 09:30","Telegram Боты на Aiogram 3.x: Доступ после подписки на каналы, получение Telegram ID и админка с рассылкой сообщений",https://habr.com/en/companies/amvera/articles/839654/
+"2024-08-24, 13:10",User-боты в Telegram: Простая автоматизация с Python (Pyrogram). Первые шаги,https://habr.com/en/companies/amvera/articles/838204/
+"2024-08-15, 08:00",Telegram Боты на Aiogram 3.x: Простой бот на вебхуках с локальным запуском и деплоем,https://habr.com/en/companies/amvera/articles/836032/
+"2024-08-11, 18:45","Playwright: Поиск, фильтрация и ожидание элементов на странице",https://habr.com/en/companies/amvera/articles/835304/
+"2024-08-09, 08:00",Playwright: Лучшая альтернатива Selenium. Первое знакомство,https://habr.com/en/companies/amvera/articles/834846/
+"2024-08-04, 10:00",Создание полного Fast-API сервиса с фронтендом и деплоем за полчаса,https://habr.com/en/companies/amvera/articles/833588/
+"2024-08-02, 07:00",Эффективные запросы к ChatGPT и подобным моделям: Полное руководство по идеальной формуле,https://habr.com/en/articles/833234/
+"2024-07-30, 20:20",CurlFetch2Py – Эффективное преобразование CURL и FETCH команд в структурированные Python объекты,https://habr.com/en/articles/832566/
+"2024-07-28, 16:22",WebSim AI: Бесплатный ИИ-помощник для быстрой веб-разработки – время фронтендерам напрячься,https://habr.com/en/companies/amvera/articles/832046/
+"2024-07-26, 16:45",Асинхронные увeдомления в Telegram: простое решение с новой библиотекой,https://habr.com/en/articles/831768/
+"2024-07-25, 13:15",Создание собственного API на Python (FastAPI): Подключаем фронтенд и статические файлы,https://habr.com/en/articles/831386/
+"2024-07-20, 12:04",Hamster Kombat: автоматизация фарма и тапанья хомяка через Python с деплоем,https://habr.com/en/companies/amvera/articles/830162/
+"2024-07-18, 14:00","Создание собственного API на Python (FastAPI): Авторизация, Аутентификация и роли пользователей",https://habr.com/en/articles/829742/
+"2024-07-12, 13:00",Создание собственного API на Python (FastAPI): Router и асинхронные запросы в PostgreSQL (SQLAlchemy),https://habr.com/en/articles/828328/
+"2024-07-09, 07:00","Создание собственного API на Python (FastAPI): структура проекта, SQLAlchemy PostgreSQL, миграции и первые модели таблиц",https://habr.com/en/articles/827222/
+"2024-07-07, 10:00","Создание собственного API на Python (FastAPI): Гайд по POST, PUT, DELETE запросам и моделям Pydantic",https://habr.com/en/articles/827134/
+"2024-07-03, 14:27",Новая библиотека для работы с JSON: json_db_lite,https://habr.com/en/articles/826434/
+"2024-07-02, 15:01",Создание собственного API на Python (FastAPI): Знакомство и первые функции,https://habr.com/en/companies/amvera/articles/826196/
+"2024-06-30, 21:14","ИИ LLama3 без ограничений: локальный запуск, GROQ и интеграция в Телеграм бота с помощью Python",https://habr.com/en/articles/825678/
+"2024-06-28, 15:56",Простой способ взаимодействия с Google Таблицами через Python (Gspread),https://habr.com/en/articles/825404/
+"2024-06-26, 06:24",Создание и обработка Excel файлов с использованием Python,https://habr.com/en/articles/824050/
+"2024-06-25, 06:09",Быстрый запуск Redis через Docker Compose,https://habr.com/en/articles/823936/
+"2024-06-24, 07:00",Быстрый запуск PostgreSQL через Docker Compose,https://habr.com/en/articles/823816/
+"2024-06-23, 07:00",Telegram Боты на Aiogram 3.x: Деплой бота через Docker,https://habr.com/en/articles/823714/
+"2024-06-22, 06:00","Шпаргалка с командами для Windows, Linux и macOS (Терминал, VirtualEnv и Git)",https://habr.com/en/articles/823570/
+"2024-06-21, 06:00",Asynpg-lite: лёгкость асинхронных операций на PostgreSQL с SQLAlchemy,https://habr.com/en/articles/823400/
+"2024-06-20, 06:00","Telegram Боты на Aiogram 3.x: Профиль, админ-панель и реферальная система",https://habr.com/en/articles/822809/
+"2024-06-19, 06:00",Telegram Боты на Aiogram 3.x:  Интеграция с PostgreSQL в пару строк кода,https://habr.com/en/articles/822083/
+"2024-06-18, 06:00",Telegram Боты на Aiogram 3.x: Все про FSM простыми словами,https://habr.com/en/articles/822061/
+"2024-06-17, 06:00",Telegram Боты на Aiogram 3.x: Отправка и обработка медиа сообщений,https://habr.com/en/articles/821961/
+"2024-06-16, 06:00",Telegram Боты на Aiogram 3.x: Message handler и трюки с текстом,https://habr.com/en/articles/821661/
+"2024-06-15, 09:00",Поднятие Redis сервера: Полное руководство,https://habr.com/en/articles/821363/
+"2024-06-14, 06:00",asynpg-lite: Простой асинхронный менеджер для PostgreSQL на Python,https://habr.com/en/articles/821323/
+"2024-06-13, 06:00",Telegram Боты на Aiogram 3.x: Магия фильтров,https://habr.com/en/articles/821085/
+"2024-06-12, 06:00",Telegram Боты на Aiogram 3.x: Инлайн кнопки и CallBack Дата,https://habr.com/en/articles/820877/
+"2024-06-11, 06:00",Telegram Боты на Aiogram 3.x: Текстовая клавиатура и Командное меню,https://habr.com/en/articles/820733/
+"2024-06-10, 06:00",Telegram Боты на Aiogram 3.x: Первые Шаги,https://habr.com/en/companies/amvera/articles/820527/
+"2024-06-09, 09:00",Работа с Outline через Python,https://habr.com/en/articles/820437/
+"2024-06-08, 14:06",Свой VPN за 5 минут (Outline),https://habr.com/en/articles/820403/
+"2024-06-07, 12:00","Новый Selenium Python: стелс-режим, профиль, скрытая автоматизация",https://habr.com/en/articles/820213/
+"2024-06-07, 08:22",Разворачиваем PostgreSQL на VPS сервере за 5 минут,https://habr.com/en/articles/820129/
+"2024-06-06, 21:56","Простая настройка VPS, NGINX и FastAPI: Пошаговое руководство. Часть 2",https://habr.com/en/articles/820093/
