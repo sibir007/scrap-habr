@@ -27,7 +27,8 @@ if (os.environ.get('USERDOMAIN', 'NOT_VZLJOT') != 'VZLJOT'):
 
 user = 'yakvenalex'
 init_page = 4
-init_linc = 'https://habr.com/en/users/{user}/publications/articles/page{page}/'
+init_linc = 'https://habr.com/en/users/{user}/articles/page{page}/'
+# init_linc = 'https://habr.com/en/users/yakvenalex/publications/articles/page{page}/'
 domen = 'https://habr.com'
 
 # init_linc.format()
@@ -36,7 +37,7 @@ domen = 'https://habr.com'
 #     resp = rq.get(url=init_linc.format(user=user, page=page), proxies=VZLJOT_PROXY)
 #     root = etree.HTML(resp.text, parser=parser).getroot()
 #     root.find('//')
-with open('article.csv', 'wt', newline='') as f:
+with open('article.csv', 'wt', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     for page in range(1, init_page):
         resp = rq.get(url=init_linc.format(user=user, page=page), proxies=VZLJOT_PROXY)
